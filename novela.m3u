@@ -1,0 +1,12 @@
+Detalhes#EXTM3U
+#PLAYLISTV: pltv-logo="https://goo.gl/X5V6Au"NOVELAS" pltv-description="XXX DESCRIÇÃO DA LISTA XXX" pltv-cover="https://goo.gl/qrxBpk" pltv-author="EDER CARVALHO" pltv-site="XXXXXX" pltv-email="XXX XXX"
+
+
+################## TIETA ########################
+
+#EXTINF:-1 tvg-logo="https://goo.gl/jfpJbC" group-title="NOVELA" pltv-subgroup="TIETA", CAP 01
+https://openload.co/embed/DrvZyIE4wWA/
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/jfpJbC" group-title="NOVELA" pltv-subgroup="TIETA", CAP 02
+https://openload.co/embed/UEuZwtgv5Zg/
